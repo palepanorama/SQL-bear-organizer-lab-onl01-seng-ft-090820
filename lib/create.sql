@@ -1,5 +1,5 @@
-CREATE TABLE 
-bears (
+CREATE TABLE bears (
 id INTEGER PRIMARY KEY,
+
 
 )
