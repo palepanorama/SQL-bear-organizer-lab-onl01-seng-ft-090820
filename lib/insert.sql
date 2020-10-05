@@ -5,4 +5,4 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergea
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Melissa', 7, 'female', 'black', 'feisty', true);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Grinch', 7, 'female', 'black', 'feisty', true);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Wendy', 7, 'female', 'black', 'feisty', true);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 7, 'female', 'black', 'feisty', true);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 7, 'female', 'black', 'feisty', false);
